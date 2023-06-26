@@ -1,7 +1,7 @@
 # 10292022
 BSU Observatory data from observing session beginning October 29, 2022.
 
-Included Folders:
+Included Folders:  
  Darks  
  Flats  
  NGC6760  
